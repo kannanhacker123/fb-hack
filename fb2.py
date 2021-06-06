@@ -25,7 +25,7 @@ except:
 	sys.exit()
 
 print('\n---------- Welcome To Facebook BruteForce ----------\n')
-file=open('passwords.txt','r')
+file=open('Password.txt','r')
 
 email=str(raw_input('Enter Email/Username : ').strip())
 
